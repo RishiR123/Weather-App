@@ -18,15 +18,16 @@ Weather App is a Python-based application that allows users to retrieve weather 
 
 1. Clone the repository to your local machine:
 
-git clone
-'''
-https://github.com/your-username/WeatherApp.git
-'''
+git clone:
+
+ ```
+ https://github.com/your-username/WeatherApp.git
+ ``` 
 
 2. Install the required dependencies:
-'''
+```
 pip install requests
-'''
+``` 
 3. Run the application:
 
 4. Enter the city name, your OpenWeatherMap API key, and select the preferred units (metric/imperial).
